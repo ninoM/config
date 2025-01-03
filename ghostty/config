@@ -11,4 +11,4 @@ font-feature = cv10
 font-feature = 'cv01 3'
 font-feature = cv31
 font-feature = cv32
-theme = SynthwaveAlpha
+theme = dark:Grape,light:ayu_light
